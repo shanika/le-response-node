@@ -22,10 +22,12 @@
           ]
         },
         {
-          "name": "response",
-          "displayName": "Response",
+          "name": "content",
+          "displayName": "Content",
           "type": "string",
-          "required": true
+          "required": true,
+          "isMultiline": true,
+          "useTemplate": true
         }
       ]
     }
