@@ -5,7 +5,6 @@ export class Node implements BaseFunctions {
     // Return a response with the given content type and response
     return {
       content: input.content,
-      contentType: input.contentType,
     };
   }
 }

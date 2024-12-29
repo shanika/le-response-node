@@ -25,8 +25,7 @@ module.exports = __toCommonJS(main_exports);
 var Node = class {
   async httpResponse(input) {
     return {
-      content: input.content,
-      contentType: input.contentType
+      content: input.content
     };
   }
 };

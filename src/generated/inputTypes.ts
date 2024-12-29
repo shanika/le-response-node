@@ -1,8 +1,7 @@
 // Generated file - DO NOT EDIT
-// Generated on: 2024-12-29T22:13:43.172Z
+// Generated on: 2024-12-29T22:55:53.848Z
 
 export interface HttpResponseInput {
-  contentType: string;
   content: string;
 }
 
